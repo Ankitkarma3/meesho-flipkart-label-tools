@@ -1,0 +1,8 @@
+# Robots.txt for Shipping Label Tools
+# Allows normal search engine crawling of all public resources.
+# Do not block CSS or JavaScript files needed for rendering.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://meesho-flipkart-label-tools.etoolmitra.workers.dev/sitemap.xml

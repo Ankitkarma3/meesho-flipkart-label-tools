@@ -1,0 +1,6 @@
+{
+  "name": "Shipping Label Tools",
+  "description": "Free Meesho & Flipkart shipping label cropping resources, practical guides, FAQs, and online tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
